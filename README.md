@@ -1,2 +1,3 @@
 # vehicles-gallery
-> Website with photo gallery of vehicles. It was created with the usage of Bootstrap.
+> Website of Vehicle Gallery - Vehicle Enthusiasts eClub (fictional Unit)
+> Technologies, libraries: HTML, CSS, Bootstrap
